@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "nom": "Boutique de Mode",
+    "description": "Les dernières tendances de la mode.",
+    "image": "/mode-vetements.jpg",
+    "note": 4.5
+  },
+  {
+    "id": "2",
+    "nom": "Maison & Déco",
+    "description": "Tout pour votre intérieur.",
+    "image": "/decoration-maison.jpg",
+    "note": 4.2
+  },
+  {
+    "id": "3",
+    "nom": "Électronique & Gadgets",
+    "description": "Les meilleurs gadgets high-tech.",
+    "image": "/-lectronique.jpg",
+    "note": 4.8
+  }
+]

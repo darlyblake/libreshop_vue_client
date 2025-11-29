@@ -1,0 +1,26 @@
+[
+  {
+    "id": "technologie",
+    "nom": "Technologie",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuATo4KXQXXpWybPXNAy3ha-gdM0vyOlLnBKvcKZK0ZBtf4Umlvf1soaQzUN9UASbpfRLGGvYaoHvtcGPqMvPiUZU5-CHBaS-gk2kxo_lbslWGT-xUh9Vrw_TU9iEQiVAiZrcixABWhpF8vLd4F03JpmuENdzimmWFSH18N4bEI3wMmw179yC2jA-atop7gNc7H28XhjKd79Pt_U1nFMh2psXj_Ui6uahJwvfneC1YARDHIh8wsFw12kgBXMpPbdWiKhGP21DxvR0kY",
+    "description": "Découvrez les dernières innovations"
+  },
+  {
+    "id": "mode",
+    "nom": "Mode",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBaBWDGpEO7nV6zs0f5LEJO-BNJ8GSlfwlphfhaxVHt7BlSif6a2HnbLhvW9GRYWo7uos6SU38Kv9tIk_4QOw8vaNzZGhHizgWHdxnRL9rnPwZxWFYOOFh9J9-7BGAtHYubOJadLVtClXzHjGqLNn1QDgZaZFVjQmf1jxZjSujpx7cvsMWBXLkTkpRjZyLFAxweDyrc7UuvzV5MbbTRqFEKcvufdS-KYsqXvicRzfXzccQbnutOl7hsOnOx_GP2um8bFuxmpRdg3EI",
+    "description": "Tendances et styles du moment"
+  },
+  {
+    "id": "maison",
+    "nom": "Maison",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCEsrucvU6a2XMlJct51MG3DAzvvsdUI7hHpzp_pgCN2KnR8CXpcItJL3Q9tDxQxguFNgjs4O7Rdna5YJKrq3Vi-18GC_HreWUQ2w0t2fXPpaOM3l5hKorG9MtnWDaga5ORqRHXDlCDZZreWX4SMUUIMC2r69naPOeTJZPrnZhvGI6TKjB-YNyo6HF-6OQMFjRngroM1d-Xml6kgOKkes3FHLd0Wz5HkDecmDfMsGXkGgjursAnswxpAfqq3styhpYG41AwShtKCik",
+    "description": "Pour un intérieur unique"
+  },
+  {
+    "id": "sport",
+    "nom": "Sport",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDLwLiSL3laFVQS_T8aMjD_hTH_O36-zyuWB6Jq2PsHkuM2c7A5imKfGVMTtqzqMwyG_CtHWIVnqjTB1u3lvPfO7E2Z34OGBTy0",
+    "description": "Équipements et accessoires"
+  }
+]

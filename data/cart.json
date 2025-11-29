@@ -1,0 +1,59 @@
+[
+  {
+    "id": "cart-1",
+    "userId": "user-1",
+    "items": [
+      {
+        "id": "item-1",
+        "productId": "1",
+        "userId": "user-1",
+        "quantity": 2,
+        "addedAt": "2023-10-26T10:00:00.000Z",
+        "product": {
+          "id": "1",
+          "nom": "Montre Connectée Pro V3",
+          "prix": 199.99,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop"
+        }
+      },
+      {
+        "id": "item-2",
+        "productId": "2",
+        "userId": "user-1",
+        "quantity": 1,
+        "addedAt": "2023-10-26T10:15:00.000Z",
+        "product": {
+          "id": "2",
+          "nom": "Écouteurs Sans Fil Premium avec ANC",
+          "prix": 129.99,
+          "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=400&fit=crop"
+        }
+      }
+    ],
+    "totalItems": 3,
+    "totalPrice": 529.97,
+    "updatedAt": "2023-10-26T10:15:00.000Z"
+  },
+  {
+    "id": "cart-2",
+    "userId": "user-2",
+    "items": [
+      {
+        "id": "item-3",
+        "productId": "201",
+        "userId": "user-2",
+        "quantity": 1,
+        "addedAt": "2023-10-26T14:30:00.000Z",
+        "product": {
+          "id": "201",
+          "nom": "Robe d'été élégante",
+          "prix": 79.99,
+          "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=400&fit=crop"
+        }
+      }
+    ],
+    "totalItems": 1,
+    "totalPrice": 79.99,
+    "updatedAt": "2023-10-26T14:30:00.000Z"
+  }
+]

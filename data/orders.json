@@ -1,0 +1,86 @@
+[
+  {
+    "id": "CMD-001",
+    "date": "2023-10-25T14:30:00.000Z",
+    "status": "paid_delivered",
+    "deliveryDate": "2023-10-28T16:45:00.000Z",
+    "total": 299.97,
+    "userId": "user-1",
+    "trackingNumber": "TRK-FR00123456",
+    "deliveryMethod": "delivery",
+    "paymentMethod": "visa_mobile",
+    "products": [
+      {
+        "id": "2",
+        "nom": "Écouteurs Sans Fil Premium avec ANC",
+        "prix": 129.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=400&fit=crop"
+      },
+      {
+        "id": "3",
+        "nom": "Sac à Main Designer en cuir végétal",
+        "prix": 89.99,
+        "quantity": 2,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+      }
+    ]
+  },
+  {
+    "id": "CMD-002",
+    "date": "2023-10-24T09:15:00.000Z",
+    "status": "paid_not_delivered",
+    "total": 699.99,
+    "userId": "user-1",
+    "trackingNumber": "TRK-FR34567890",
+    "deliveryMethod": "pickup",
+    "paymentMethod": "airtel_money",
+    "products": [
+      {
+        "id": "4",
+        "nom": "Smartphone Ultra Pro (édition limitée)",
+        "prix": 699.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=400&fit=crop"
+      }
+    ]
+  },
+  {
+    "id": "CMD-003",
+    "date": "2023-10-23T11:20:00.000Z",
+    "status": "not_paid",
+    "total": 449.99,
+    "userId": "user-1",
+    "deliveryMethod": "delivery",
+    "paymentMethod": "moov_money",
+    "products": [
+      {
+        "id": "5",
+        "nom": "Tablette Pro M2 128Go",
+        "prix": 449.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop"
+      }
+    ]
+  },
+  {
+    "id": "CMD-004",
+    "date": "2023-10-22T13:45:00.000Z",
+    "status": "paid_delivered",
+    "deliveryDate": "2023-10-25T15:30:00.000Z",
+    "total": 159.99,
+    "userId": "user-2",
+    "trackingNumber": "TRK-FR56789012",
+    "deliveryMethod": "delivery",
+    "paymentMethod": "visa_mobile",
+    "products": [
+      {
+        "id": "6",
+        "nom": "Casque Audio Premium Hi-Fi",
+        "prix": 159.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop"
+      }
+    ]
+  }
+]

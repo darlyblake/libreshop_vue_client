@@ -1,0 +1,66 @@
+[
+  {
+    "id": "pay-001",
+    "orderId": "CMD-001",
+    "userId": "user-1",
+    "amount": 299.97,
+    "currency": "XAF",
+    "method": "visa_mobile",
+    "status": "completed",
+    "transactionId": "TXN-VM-00123456",
+    "createdAt": "2023-10-25T14:35:00.000Z",
+    "completedAt": "2023-10-25T14:36:00.000Z",
+    "details": {
+      "cardNumber": "**** **** **** 1234",
+      "description": "Paiement commande CMD-001"
+    }
+  },
+  {
+    "id": "pay-002",
+    "orderId": "CMD-002",
+    "userId": "user-1",
+    "amount": 699.99,
+    "currency": "XAF",
+    "method": "airtel_money",
+    "status": "completed",
+    "transactionId": "TXN-AM-78901234",
+    "createdAt": "2023-10-24T09:20:00.000Z",
+    "completedAt": "2023-10-24T09:21:00.000Z",
+    "details": {
+      "phoneNumber": "+225 01 02 03 04 05",
+      "provider": "airtel",
+      "description": "Paiement commande CMD-002"
+    }
+  },
+  {
+    "id": "pay-003",
+    "orderId": "CMD-003",
+    "userId": "user-1",
+    "amount": 449.99,
+    "currency": "XAF",
+    "method": "moov_money",
+    "status": "pending",
+    "createdAt": "2023-10-23T11:25:00.000Z",
+    "details": {
+      "phoneNumber": "+225 01 02 03 04 05",
+      "provider": "moov",
+      "description": "Paiement commande CMD-003"
+    }
+  },
+  {
+    "id": "pay-004",
+    "orderId": "CMD-004",
+    "userId": "user-2",
+    "amount": 159.99,
+    "currency": "XAF",
+    "method": "visa_mobile",
+    "status": "completed",
+    "transactionId": "TXN-VM-56789012",
+    "createdAt": "2023-10-22T13:50:00.000Z",
+    "completedAt": "2023-10-22T13:51:00.000Z",
+    "details": {
+      "cardNumber": "**** **** **** 5678",
+      "description": "Paiement commande CMD-004"
+    }
+  }
+]
